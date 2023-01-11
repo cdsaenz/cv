@@ -5,3 +5,24 @@
  body {
     font-family: 'Merriweather', serif;
  }
+
+ main {
+    min-height: 78vh;    
+ }
+
+ #title-container {
+    padding: 20px 0px 20px;
+ }
+
+ .section-title {
+    color: darkslategray;
+    padding-bottom: 10px;
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 15px;
+}
+
+ @media (max-width: 576px) {
+    #title-container {
+        padding: 10px;
+    }  
+ }
