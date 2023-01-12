@@ -19,6 +19,11 @@
     padding: 20px 0px 20px;
  }
 
+ section {
+   margin-bottom: 50px;
+   margin-top: 20px;
+}
+
  .section-title {
     color: darkslategray;
     padding-bottom: 10px;
