@@ -6,8 +6,13 @@
     font-family: 'Merriweather', serif;
  }
 
+ .navbar {
+   background-color: thistle;
+   color: white;
+ }
+
  main {
-    min-height: 78vh;    
+    min-height: 73vh;    
  }
 
  #title-container {
