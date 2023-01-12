@@ -1,7 +1,7 @@
 {
     "name": "CV",
-    "short_name": "CV",
-    "start_url": "/cursocv/", 
+    "short_name": "CV",    
+    "start_url": "/", 
     "display": "standalone",    
     "description": "CV Online",
     "lang": "es",

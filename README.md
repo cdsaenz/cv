@@ -24,3 +24,4 @@
     - Diseño Responsive
 - Otros
     - PWA con un serviceWorker y WebManifest basicos.
+        (actualizar starturl si se usa en subfolder)
