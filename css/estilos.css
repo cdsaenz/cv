@@ -6,17 +6,48 @@
     font-family: 'Merriweather', serif;
  }
 
+ a {   
+   text-decoration: none !important;
+   color: gray !important;
+ }
+
+ a:visited, a:focused {   
+   text-decoration: none !important;
+   color: gray !important;
+ }
+
+ a:hover {   
+   text-decoration: none !important;
+   color: mediumpurple !important;   
+ }
+
+ li {
+   line-height: 2 !important;
+ }
+
+
  .navbar {
    background-color: thistle;
    color: white;
  }
+
+ .navbar-nav .nav-link.active, .navbar-nav .show>.nav-link {
+   color: rebeccapurple !important;
+ }
+
+ .btn-primary {
+   background-color: rebeccapurple !important;
+   border-color: rebeccapurple !important;
+   font-weight: bold;    
+ }   
 
  main {
     min-height: 73vh;    
  }
 
  #title-container {
-    padding: 20px 0px 20px;
+    padding-top: 5em;
+    padding-bottom: 20px;
  }
 
  section {
@@ -33,6 +64,7 @@
 
  @media (max-width: 576px) {
     #title-container {
-        padding: 10px;
+        padding-top: 4em;
+        padding-bottom: 10px;
     }  
  }

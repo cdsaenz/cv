@@ -19,6 +19,8 @@
     - Uso de funciones
 - HTML
     - Elementos semánticos
-    - Nav de menu superior (navbar)
+    - Nav de menu superior (navbar) con Links internos
     - Listas desordenadas
     - Diseño Responsive
+- Otros
+    - PWA con un serviceWorker y WebManifest basicos.
